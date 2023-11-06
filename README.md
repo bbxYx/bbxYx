@@ -1,16 +1,105 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bbxYx.bbxYx">
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FbbxYx&count_bg=%23888888&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%F0%9F%92%99+&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-<!--
-**bbxYx/bbxYx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;This+is+BoRam+Bae❤️;Wanna+be+great+programmer!;Thank+You🥰&center=true&size=30">
+<!--     <img src="https://readme-typing-svg.herokuapp.com/?lines=안녕하세요!+👋<br>Hello,There!+👋;배보람입니다❤️<br>This+is+BoRam Bae❤️;훌륭한+프로그래머가+되고싶습니다!<br>Wanna+be+great+programmer!&center=true&size=30"> -->
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+<h5 align="center">
+  <code><a href="https://hospitable-eclipse-9e5.notion.site/984d355d21f44eb69bd847aa30e01b6c?pvs=4" title="Notion profile"><img width="22"src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778642/noticon/kjaaizycfgz017qxvlnu.png"> Notion</a></code>&nbsp&nbsp
+  <code><a href="https://www.youtube.com/@bbx._.ya93" title="youtube"><img width="22" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568943514/noticon/dmtananggsvqylez5adj.png"> youtube</a></code>&nbsp&nbsp
+  <code><a href="https://instagram.com/bbx._.yx_?igshid=NzZlODBkYWE4Ng==" title="instagram"><img width="22" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png"> instagram</a></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h5>
+<br>
+<p align="left">
+  Hello! My name is BoRam Bae. 
+  <br>
+  I'm in the midst of a challenge, transitioning from a 7-year experienced nurse to becoming a developer.
+  <br>
+  I'm documenting the entire process to become a great developer right here. 
+  <br>
+  Stay tuned for my journey, filled with continuous learning, hands-on projects, and a passion for coding!
+  <br>
+  <br>
+  🔬 I'm currently enrolled in the 'K-digital training' program at Kyungpook National University.
+  <br>
+  💻 I love writing code and learn anythings about it. It's awsome!
+  <br>
+  🌱 I’m currently learning JavaScript.
+  <br>
+  ⚡ The current ongoing project is 'Building an AI Model for Safety Management Solution Using Artificial Intelligence.'
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/bbxYx/bbxYx/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="bbr_0694@naver.com">bbr_0694@naver.com</a>
+</p>
+
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="python" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png"></code>
+  <code><img title="JavaScript" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008394/noticon/ohybolu4ensol1gzqas1.png"></code>
+  <code><img title="HTML" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png"></code>
+  <code><img title="CSS" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1678672480/noticon/qblxu9uo0uuitucuzhjy.png"></code>
+  <code><img title="sql" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1574153502/noticon/aun9na6b8htufz2lwdo0.jpg"></code>
+  <code><img title="figma" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1640982247/noticon/tpvr26zp02angin4t0jv.png"></code>
+  <code><img title="tablou" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1580887374/noticon/azlhetud73we7xnhdkws.png"></code>
+  <code><img title="mariaDB" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1579928281/noticon/wfykhuhsg5hfddh6ok0o.png"></code>
+  <code><img title="AWS" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566777755/noticon/yfmwxv8nhnr5aqaxhxpg.png"></code>
+  <code><img title="VScode" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629987802/noticon/qxvhd6gnagplyp6crw33.png"></code>
+  <code><img title="GitHub" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1629972215/noticon/vgvbhxae6jrvqpcnu0vb.png"></code>
+  <code><img title="MySQL" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1603423163/noticon/az0cvs28lm7gxoowlsva.png"></code>
+  <code><img title="Flask" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919737/noticon/gjxns0py6vnakzyu3msu.png"></code>
+  <code><img title="tensorflow" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566915748/noticon/zbduq3macc9nkulysuq6.png"></code>
+  <code><img title="excel" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1602173012/noticon/jggtp4pm6dybara41sv4.png"></code>
+  <code><img title="photoshp[" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1602172134/noticon/owhrsm7fwznd39eli3d6.png"></code>
+  <code><img title="PowerPoint" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1602173097/noticon/qxvc8rykdemiguiqozwd.png"></code>
+</p>
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div div width="100%" >
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img width=330 src="https://streak-stats.demolab.com/?user=bbxYx&theme=react&border=61dafb&hide_border=true" alt="bbxYx" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=330 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbxYx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img width=330 src="https://github-readme-stats.vercel.app/api?username=bbxYx&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bbxYx&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/bbxYx/Algorithms" title="Algorithms"><img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/bbxYx/DataStructures" title="Data Structures"><img align="right" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/bbxYx/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/bbxYx/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/bbxYx/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/bbxYx/javascript-minesweeper" title="Minesweeper"><img align="right" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/bbxYx?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
