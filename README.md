@@ -3,7 +3,7 @@
 
 <h1 align="center" width=100%>
 <!--   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bbxYx"> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&pause=1000&color=F70FC6&center=true&vCenter=true&random=false&width=435&lines=++++Hello,+There!👋;++++This+is+BoRam,+Bae❤️;++++Wanna+be+a+great+developer👍;++++Thank+You🥰" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&pause=1000&color=F70FC6&center=true&vCenter=true&random=false&width=435&lines=Hello,+There!👋;This+is+BoRam,+Bae❤️;Wanna+be+a+great+developer👍;Thank+You🥰" alt="Typing SVG" /></a>
 </h1>
 
 <h5 align="center">
@@ -35,9 +35,9 @@
   <br>
   📫 How to reach me: <a href="bbr_0694@naver.com">bbr_0694@naver.com</a>
 </p>
-
+ <br><br>
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center"><img width="28" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567060481/noticon/asnzeopvjcuc50ynymrw.png" alt="Custom Image"> Languages & Tools </h2>
 <br>
 <p align="center">
   <code><img title="python" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png"></code>
@@ -57,10 +57,11 @@
   <code><img title="excel" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1602173012/noticon/jggtp4pm6dybara41sv4.png"></code>
   <code><img title="photoshp[" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1602172134/noticon/owhrsm7fwznd39eli3d6.png"></code>
   <code><img title="PowerPoint" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1602173097/noticon/qxvc8rykdemiguiqozwd.png"></code>
+  <br><br><br>
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats <img width="28" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1585535741/noticon/reddiakdgx1hiufk7ayb.png" alt="Custom Image"></h2>
 <br>
 <p align=center>
   <div div width="100%" >
@@ -78,10 +79,10 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bbxYx&theme=xcode&bg_color=000000&line=79DAFA&point=FF6E96&title_color=FF6E96&hide_border=true" width="100%"/>
 </p>
-
+<br><br><br>
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">Repositories <img width="28" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1659096148/noticon/jfuskelcivmywq2y78z0.png"></h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/bbxYx/Algorithms" title="Algorithms"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -100,5 +101,5 @@
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/bbxYx?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/bbxYx?tab=repositories" title="Show Repositories"><img width="28" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1695110119/noticon/hl1lyoyohapqhtxjllio.png"> Show More</a>
 </h4>
