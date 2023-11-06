@@ -11,30 +11,20 @@
   <code><a href="https://www.youtube.com/@bbx._.ya93" title="youtube"><img width="22" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568943514/noticon/dmtananggsvqylez5adj.png"> youtube</a></code>&nbsp&nbsp
   <code><a href="https://instagram.com/bbx._.yx_?igshid=NzZlODBkYWE4Ng==" title="instagram"><img width="22" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png"> instagram</a></code>
 </h5>
-<br>
+<br><br>
 
-<p align="left">
-  Hello! My name is BoRam Bae. 
-  <br>
-  I'm in the midst of a challenge, transitioning from a 7-year experienced nurse to becoming a developer.
-  <br>
-  I'm documenting the entire process to become a great developer right here. 
-  <br>
-  Stay tuned for my journey, filled with continuous learning, hands-on projects, and a passion for coding!
-  <br>
-  <br>
-  🔬 I'm currently enrolled in the 'K-digital training' program at Kyungpook National University.
-  <br>
-  💻 I love writing code and learn anythings about it. It's awsome!
-  <br>
-  🌱 I’m currently learning JavaScript.
-  <br>
-  ⚡ The current ongoing project is 'Building an AI Model for Safety Management Solution Using Artificial Intelligence.'
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/bbxYx/bbxYx/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="bbr_0694@naver.com">bbr_0694@naver.com</a>
-</p>
+Hello! My name is BoRam, Bae. <br>
+I'm in the midst of a challenge, transitioning from a 7-year experienced nurse to becoming a developer. <br>
+I'm documenting the entire process to become a great developer right here. <br>
+Stay tuned for my journey, filled with continuous learning, hands-on projects, and a passion for coding!<br><br>
+
+- 👩‍🎓 I'm currently enrolled in the **'K-digital training'** program at Kyungpook National University.
+- 💻 I love **writing code** and **learning everything** about it. It's awesome!
+- 🎵 If excluding computers, I like reading **books**, playing **piano**, **baking** and everything related to **music**.
+- 🌱 I’m currently learning **JavaScript**.
+- 👷‍♀️ The current ongoing project is **'Building an AI Model for Safety Management Solution Using Artificial Intelligence.'**
+- 💬 Ask me anything from [here](https://github.com/bbxYx/bbxYx/issues).
+- 📫 How to reach me: [bbr_0694@naver.com](mailto:bbr_0694@naver.com)
  <br><br>
 <hr>
 <h2 align="center"><img width="28" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567060481/noticon/asnzeopvjcuc50ynymrw.png" alt="Custom Image"> Languages & Tools </h2>
