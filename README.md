@@ -3,7 +3,7 @@
 
 <h1 align="center" width=100%>
 <!--   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bbxYx"> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&pause=1000&color=F70FC6&center=true&vCenter=true&random=false&width=435&lines=Hello,+There!👋;This+is+BoRam,+Bae❤️;Wanna+be+a+great+developer👍;Thank+You🥰" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&pause=1000&color=F70FC6&center=true&vCenter=true&random=false&width=435&lines=Hello,+There!👋;This+is+BoRam,+Bae❤;Who wanna+be+a+great+developer👍;Thank+You❤️" alt="Typing SVG" /></a>
 </h1>
 
 <h5 align="center">
