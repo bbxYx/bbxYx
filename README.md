@@ -1,20 +1,18 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bbxYx.bbxYx">
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FbbxYx&count_bg=%23888888&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%F0%9F%92%99+&edge_flat=false)](https://hits.seeyoufarm.com) -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=f7d1e8&height=100&section=header&text=BoRam's%20GitHub&fontSize=70&center=true&vCenter=true" />
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;This+is+BoRam+Bae❤️;Wanna+be+great+programmer!;Thank+You🥰&center=true&size=30">
-<!--     <img src="https://readme-typing-svg.herokuapp.com/?lines=안녕하세요!+👋<br>Hello,There!+👋;배보람입니다❤️<br>This+is+BoRam Bae❤️;훌륭한+프로그래머가+되고싶습니다!<br>Wanna+be+great+programmer!&center=true&size=30"> -->
-  </a>
+
+<h1 align="center" width=100%>
+<!--   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bbxYx"> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&pause=1000&color=F70FC6&center=true&vCenter=true&random=false&width=435&lines=++++Hello,+There!👋;++++This+is+BoRam,+Bae❤️;++++Wanna+be+great+programmer👍;++++Thank+You🥰" alt="Typing SVG" /></a>
 </h1>
 
 <h5 align="center">
   <code><a href="https://hospitable-eclipse-9e5.notion.site/984d355d21f44eb69bd847aa30e01b6c?pvs=4" title="Notion profile"><img width="22"src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778642/noticon/kjaaizycfgz017qxvlnu.png"> Notion</a></code>&nbsp&nbsp
   <code><a href="https://www.youtube.com/@bbx._.ya93" title="youtube"><img width="22" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568943514/noticon/dmtananggsvqylez5adj.png"> youtube</a></code>&nbsp&nbsp
   <code><a href="https://instagram.com/bbx._.yx_?igshid=NzZlODBkYWE4Ng==" title="instagram"><img width="22" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567008788/noticon/bqjhb6xvljt9viccy6lh.png"> instagram</a></code>
-
 </h5>
 <br>
+
 <p align="left">
   Hello! My name is BoRam Bae. 
   <br>
