@@ -67,13 +67,13 @@
 <p align=center>
   <div div width="100%" >
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img width=330 src="https://streak-stats.demolab.com/?user=bbxYx&theme=react&border=61dafb&hide_border=true" alt="bbxYx" />
+      <img width=33% src="https://streak-stats.demolab.com/?user=bbxYx&theme=react&border=61dafb&hide_border=true" alt="bbxYx" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=330 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbxYx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img width=33% src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbxYx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img width=330 src="https://github-readme-stats.vercel.app/api?username=bbxYx&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img width=33% src="https://github-readme-stats.vercel.app/api?username=bbxYx&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br>
@@ -86,17 +86,18 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/bbxYx/Algorithms" title="Algorithms"><img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/bbxYx/DataStructures" title="Data Structures"><img align="right" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/bbxYx/Algorithms" title="Algorithms"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/bbxYx/DataStructures" title="Data Structures"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/bbxYx/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/bbxYx/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/bbxYx/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/bbxYx/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/bbxYx/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/bbxYx/javascript-minesweeper" title="Minesweeper"><img align="right" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/bbxYx/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/bbxYx/javascript-minesweeper" title="Minesweeper"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
