@@ -27,7 +27,7 @@ Stay tuned for my journey, filled with continuous learning, hands-on projects, a
 - 📫 How to reach me: [bbr_0694@naver.com](mailto:bbr_0694@naver.com)
  <br><br>
 <hr>
-<h2 align="center"><img width="28" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567060481/noticon/asnzeopvjcuc50ynymrw.png" alt="Custom Image"> Languages & Tools </h2>
+<h2 align="center">Languages & Tools <img width="28" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1659096148/noticon/jfuskelcivmywq2y78z0.png"></h2>
 <br>
 <p align="center">
   <code><img title="python" height="25" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566791609/noticon/nen1y11gazeqhejw7nm1.png"></code>
@@ -56,18 +56,18 @@ Stay tuned for my journey, filled with continuous learning, hands-on projects, a
 <p align=center>
   <div div width="100%" >
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img width=33% src="https://streak-stats.demolab.com/?user=bbxYx&theme=dracula&border=61dafb&hide_border=true" alt="bbxYx" />
+      <img width=33% src="https://streak-stats.demolab.com/?user=bbxYx&theme=buefy&ring=79DAFA&fire=79DAFA&dates=000000&sideLabels=FF6E96&currStreakNum=FF6E96&sideNums=FF6E96&title_color=FF6E96&icon_color=79DAFA&border=61dafb&hide_border=true" alt="bbxYx" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=33% src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbxYx&theme=dracula&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img width=33% src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbxYx&theme=buefy&title_color=FF6E96&icon_color=79DAFA&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img width=33% src="https://github-readme-stats.vercel.app/api?username=bbxYx&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
+      <img width=33% src="https://github-readme-stats.vercel.app/api?username=bbxYx&show_icons=true&theme=buefy&title_color=FF6E96&icon_color=79DAFA&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bbxYx&theme=xcode&bg_color=000000&line=79DAFA&point=FF6E96&title_color=FF6E96&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bbxYx&line=79DAFA&bg_color=ffffff&color=000000&point=FF6E96&title_color=FF6E96&hide_border=true" width="100%"/>
 </p>
 <br><br><br>
 <hr>
