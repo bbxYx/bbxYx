@@ -20,7 +20,7 @@ Stay tuned for my journey, filled with continuous learning, hands-on projects, a
 
 - 👩‍🎓 I'm currently enrolled in the **'K-digital training'** program at Kyungpook National University.
 - 💻 I love **writing code** and **learning everything** about it. It's awesome!
-- 🎵 If excluding computers, I like reading **books**, playing **piano**, **Golf**, **baking** and everything related to **music**.
+- 🎵 If excluding computers, I like reading **books**, playing **piano**, **golf**, **baking** and everything related to **music**.
 - 🌱 I’m currently learning **JavaScript**.
 - 👷‍♀️ The current ongoing project is **'Building an AI Model for Safety Management Solution Using Artificial Intelligence.'**
 - 💬 Ask me anything from [here](https://github.com/bbxYx/bbxYx/issues).
