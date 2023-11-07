@@ -69,7 +69,6 @@ Stay tuned for my journey, filled with continuous learning, hands-on projects, a
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bbxYx&line=79DAFA&bg_color=ffffff&color=000000&point=FF6E96&title_color=FF6E96&hide_border=true" width="100%"/>
 </p>
-<br><br><br>
 <hr>
 
 <h4 align="center">
