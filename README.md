@@ -72,24 +72,7 @@ Stay tuned for my journey, filled with continuous learning, hands-on projects, a
 <br><br><br>
 <hr>
 
-<h2 align="center">Repositories <img width="28" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1659096148/noticon/jfuskelcivmywq2y78z0.png"></h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/bbxYx/Algorithms" title="Algorithms"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/bbxYx/DataStructures" title="Data Structures"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/bbxYx/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/bbxYx/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/bbxYx/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/bbxYx/javascript-minesweeper" title="Minesweeper"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=bbxYx&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
 <h4 align="center">
-  <a href="https://github.com/bbxYx?tab=repositories" title="Show Repositories"><img width="28" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1695110119/noticon/hl1lyoyohapqhtxjllio.png"> Show More</a>
+  <a href="https://github.com/bbxYx?tab=repositories" title="Show Repositories"><img width="28" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1695110119/noticon/hl1lyoyohapqhtxjllio.png"> Show All Repositories
+  </a>
 </h4>
